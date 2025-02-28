@@ -1,0 +1,10 @@
+---
+title: "lab_attendance"
+format: html
+editor: visual
+
+execute: 
+  echo: true
+---
+
+## I've learned about how ordering dplyr verbs like group, arrange, and summarize helps configure tables for graph creation way faster than excel if you're quick with R. If I do this for my job, I can get a lot of experience and produce complex graphs quickly. 
